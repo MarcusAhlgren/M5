@@ -13,8 +13,7 @@ seaborn = "*"
 sklearn = "*"
 jupyter = "*"
 cookiecutter = "*"
-fastparquet = "*"
-pyarrow = "*"
+lightgbm = "*"
 
 [requires]
 python_version = "3.7"
